@@ -9,3 +9,17 @@ Author: XanDesign <unixdesignios@gmail.com>
 Maintainer: XanDesign <unixdesignios@gmail.com>
 Depiction: https://xandesign.github.io/depic/Unc0verIcons/index.html
 Name: Unc0ver Icons
+
+Package: com.xandesign.Felicity
+Name: Felicity
+Version: 4.0
+Architecture: iphoneos-arm
+Description: An Awesome SpringBoard Theme!
+Homepage: https://twitter.com/xerusdesign
+SileoDepiction: https://sileogen.com/v1/generate
+Section: Themes
+Author: XerusDesign <unixdesignios@gmail.com>
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Filename: debs/com.xandesign.Felicity_4.0_iphoneos-arm.deb
+Size: 24950000
+MD5sum: 4a206a60e09fb33df7223f851926e436
